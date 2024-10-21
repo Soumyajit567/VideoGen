@@ -1,0 +1,23 @@
+alembic @ file:///home/conda/feedstock_root/build_artifacts/alembic_1727122811080/work
+bcrypt @ file:///D:/bld/bcrypt_1649165185259/work
+blinker @ file:///home/conda/feedstock_root/build_artifacts/blinker_1715091184126/work
+cffi @ file:///C:/b/abs_90yq4lmu83/croot/cffi_1726856448345/work
+click @ file:///D:/bld/click_1692312014553/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1712667726126/work
+Flask-JWT-Extended==4.6.0
+greenlet @ file:///C:/b/abs_a6c75ie0bc/croot/greenlet_1702060012174/work
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1726082825846/work
+importlib_resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1725921340658/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1713372668944/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1715127149914/work
+Mako @ file:///home/conda/feedstock_root/build_artifacts/mako_1715711344987/work
+MarkupSafe @ file:///C:/b/abs_ecfdqh67b_/croot/markupsafe_1704206030535/work
+psycopg2 @ file:///C:/b/abs_4aotb39ojr/croot/psycopg2_1704232487763/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
+PyJWT==2.9.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+SQLAlchemy @ file:///D:/bld/sqlalchemy_1620078055595/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1724330738730/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1726248574750/work

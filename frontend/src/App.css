@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 10px;
+  width: 250px;
+}
+
+button {
+  padding: 10px;
+}
+
+.chat-window {
+  height: 400px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.user-message {
+  background-color: #e0f7fa;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.system-message {
+  background-color: #ffe0b2;
+  padding: 10px;
+  margin-bottom: 10px;
+}
