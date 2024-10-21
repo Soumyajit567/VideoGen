@@ -1,5 +1,3 @@
-# routes/utils.py
-
 import re
 
 def sanitize_filename(filename: str) -> str:

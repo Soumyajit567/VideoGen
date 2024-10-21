@@ -1,7 +1,3 @@
-
-
-# chat_routes.py
-
 from fastapi import APIRouter, Depends, HTTPException, BackgroundTasks, Request
 from sqlalchemy.orm import Session
 from models import ChatMessage, Video
